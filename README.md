@@ -6,20 +6,20 @@
 2. Adotar uma solução proprietária como o Windows torna a solução dependente de uma única fonte (a empresa que a mantém). Entretanto, adotando uma OpenSource (como o Ubuntu), a solução é mantida e melhorada pelos desenvolvedores.
 
     * Analisando os pontos positivos de uma solução proprietária temos:
-    1. Solução é mais estável, com prazos previstos, suporte e segurança
-    2. Maior controle sobre a solução, tendo funcionalidades testadas e garantindo uma experiência de qualidade
+    1. Solução é mais estável, com prazos previstos, suporte e segurança.
+    2. Maior controle sobre a solução, tendo funcionalidades testadas e garantindo uma experiência de qualidade.
     * Pontos Negativos:
-    1. Versatilidade limitada, visto que são desenvolvidas com um conjunto de funcionalidades específicas
-    2. Custo é mais caro
+    1. Versatilidade limitada, visto que são desenvolvidas com um conjunto de funcionalidades específicas.
+    2. Custo é mais caro.
 
     <br>
 
     * Analisando os pontos positivos de uma solução OpenSource temos:
-    1. Personalização é ilimitada, o que facilita a integração com outros produtos
-    2. Custo baixo, ou gratuito
+    1. Personalização é ilimitada, o que facilita a integração com outros produtos.
+    2. Custo baixo, ou gratuito.
     * Pontos Negativos:
-    1. Pela fácil modificação, há um comprometimento na segurança
-    2. Menor controle sobre a solução, não garantindo um suporte para determinadas funcionalidades
+    1. Pela fácil modificação, há um comprometimento na segurança.
+    2. Menor controle sobre a solução, não garantindo um suporte para determinadas funcionalidades.
 
 3. Um projeto OpenSource é conhecido por ser mantido e modificado por uma equipe de desenvolvedores, sendo gratuito ou de baixo custo. A adoção desse tipo de solução em empresas é feito internamente, para o desenvolvimento de aplicativos, infraestrutura, hospedagem de sites ou armazenamento em nuvem.  Desse modo, usando tais tecnologias há uma redução de custos, visto que grande parte deles são gratuitos, além da alta flexibilidade, atendendo necessidades específicas de uma corporação.
 
