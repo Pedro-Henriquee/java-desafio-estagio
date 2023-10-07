@@ -1,5 +1,4 @@
-# Desafio Técnico e Conceitual: Estágio Java - SC Clouds
-
+# Desafio Técnico e Conceitual: Estágio Java
 ## Respostas: Perguntas Conceituais
 
 1. A camada 2 (Enlace de dados) é responsável por dividir os dados (bits) em frames, garantindo a sua integridade e fidelidade, sendo o protocolo Ethernet o principal. Já na camada 3 (Redes) é responsável pelo roteamento de dados, a qual procura o melhor caminho de envio, isto é, o mais eficiente e enviando-os para o destino correto, com o protocolo mais conhecido, IP.
